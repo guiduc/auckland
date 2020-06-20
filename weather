@@ -5,7 +5,17 @@
    "list":[
       {
          "dt":1592643600,
-         "main":{},
+         "main":{
+            "temp":286.32,
+            "feels_like":285.49,
+            "temp_min":286,
+            "temp_max":286.32,
+            "pressure":1015,
+            "sea_level":1015,
+            "grnd_level":1004,
+            "humidity":90,
+            "temp_kf":0.32
+         },
          "weather":[
             {
                "id":803,
@@ -1374,5 +1384,17 @@
          "dt_txt":"2020-06-25 06:00:00"
       }
    ],
-   "city":{}
+   "city":{
+      "id":2193733,
+      "name":"Auckland",
+      "coord":{
+         "lat":-36.8667,
+         "lon":174.7667
+      },
+      "country":"NZ",
+      "population":417910,
+      "timezone":43200,
+      "sunrise":1592595214,
+      "sunset":1592629881
+   }
 }
